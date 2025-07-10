@@ -62,7 +62,7 @@ wait(2) seconds
      モーターを前進(80)
      wait(1) seconds
      モーターを停止()
-
+   ```
 
 
 
