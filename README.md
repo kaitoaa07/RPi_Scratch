@@ -51,7 +51,17 @@ when green flag clicked
 wait(2) seconds
 モーターを停止()
 ```
+## 5. ステップ・バイ・ステップ チュートリアル
 
+### 1. モーター動作テスト
+1. 新規プロジェクト作成
+2. 拡張ブロックを確認
+3. 以下のスクリプトを実行:
+   ```scratch
+   when green flag clicked
+     モーターを前進(80)
+     wait(1) seconds
+     モーターを停止()
 
 # RPi_Scratch
 ## a
