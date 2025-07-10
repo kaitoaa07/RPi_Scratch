@@ -46,7 +46,7 @@
 
 ### 簡易コード例
 ```scratch
-when green flag clicked
+緑の旗が押されたとき
 モーターを前進(70)
 wait(2) seconds
 モーターを停止()
