@@ -50,6 +50,7 @@ when green flag clicked
 モーターを前進(70)
 wait(2) seconds
 モーターを停止()
+```
 
 
 # RPi_Scratch
